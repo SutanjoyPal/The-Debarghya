@@ -45,7 +45,7 @@
 [9]: https://play.picoctf.org/users/Heisenberg8622
 
 
-![Github stats](https://github-readme-stats-theta-ten-29.vercel.app/api?username=SutanjoyPal&show_icons=true&count_private=true&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1117&locale=en)
+![Github stats](https://github-readme-stats-theta-ten-29.vercel.app/api?username=SutanjoyPal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&count_private=true&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1117&locale=en)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SutanjoyPal&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117)
 [![Top Langs](https://github-readme-stats-theta-ten-29.vercel.app/api/top-langs/?username=SutanjoyPal&layout=donut-vertical&bg_color=0D1117)](https://github.com/The-Debarghya)
 
