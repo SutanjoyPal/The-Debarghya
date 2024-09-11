@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning SOC operations, intrusion detection using zeek, SIEM.
 - 👯 I’m looking to contribute to OSS.
 - 💬 Ask me about cybersecurity and devops stuff!
-- 📫 How to reach me: debarghya4444@gmail.com
+- 📫 How to reach me: sutanjoypal04@gmail.com
 - ⚡ I'm a Certified Kubernetes Administrator
 
 <br>
